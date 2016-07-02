@@ -1,3 +1,7 @@
+//    Document   : A Simple Date Picker Using JS and JQ
+//    Created on : July 02, 2016, 1:03:51 PM
+//    Name       : Md. Rayhanuzzaman Roky
+
 function btnChngDate(id){
     // Start for Date Settings
     var month =['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
