@@ -1,13 +1,13 @@
 # DatePicker-using-JavaScript_JQuery-
 
-                        <!-- Type This in html file Three Line for Pick Date  -->
+                       1. <!-- Type This in html file Three Line for Pick Date  -->
                         
                         Pick The Date: <br>
                         <input id="inputPanel" type="text">
                         <div id="showdate"></div>
                         
                         
-                         <!-- Change here in .js file for getting desire output of date and time formate  -->
+                       2.<!-- Change here in .js file for getting desire output of date and time formate  -->
                         
                         function saveTimeDate(){
                             var sal = document.getElementById("6").value;
@@ -21,3 +21,5 @@
                             document.getElementById("inputPanel").value = din +' '+mas +' '+sal +' : '+ghonta +'-'+minit +' '+ sokal_bikal;
                             document.getElementById("showdate").remove();
                         } 
+                       
+                       3. AND the Last is, include the rzDatePicker.js file in your html file.
